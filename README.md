@@ -1,11 +1,11 @@
 # PPO_MOUNTAINCAR_DISCRETE
 Proximal Policy Optimization Algorithm applied to MountainCar in discrete environment.
 
-[![Watch the video](/media/mount.gif)](/media/video.mp4)
-
 **Author:**
 
 *Simone Rossetti, Roma, January 2020*
+
+[![Watch the video](/media/mount.gif)](/media/video.mp4)
 
 **Framework:** 
 
